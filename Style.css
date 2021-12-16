@@ -1,0 +1,25 @@
+ h1{
+     color: blue;
+ }
+/**{
+    border: solid;
+}*/
+.header{
+    background-color: burlywood;
+    display: flex;
+    justify-content:space-between;
+}
+.casper{
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: crimson;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+
+}
+p{
+    text-align: center;
+}
